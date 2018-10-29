@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6133b118-4b96-49a5-8960-97b0ee896dec" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/AIPND-revision.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AIPND-revision.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intropyproject-classify-pet-images/adjust_results4_isadog.py" beforeDir="false" afterPath="$PROJECT_DIR$/intropyproject-classify-pet-images/adjust_results4_isadog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intropyproject-classify-pet-images/calculates_results_stats.py" beforeDir="false" afterPath="$PROJECT_DIR$/intropyproject-classify-pet-images/calculates_results_stats.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intropyproject-classify-pet-images/check_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/intropyproject-classify-pet-images/check_images.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intropyproject-classify-pet-images/classify_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/intropyproject-classify-pet-images/classify_images.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intropyproject-classify-pet-images/get_input_args.py" beforeDir="false" afterPath="$PROJECT_DIR$/intropyproject-classify-pet-images/get_input_args.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intropyproject-classify-pet-images/get_pet_labels.py" beforeDir="false" afterPath="$PROJECT_DIR$/intropyproject-classify-pet-images/get_pet_labels.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/intropyproject-classify-pet-images/print_results.py" beforeDir="false" afterPath="$PROJECT_DIR$/intropyproject-classify-pet-images/print_results.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,20 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="print_results.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="print_results.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/intropyproject-classify-pet-images/print_results.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="45" column="71" lean-forward="true" selection-start-line="45" selection-start-column="71" selection-end-line="45" selection-end-column="71" />
+            <state relative-caret-position="487">
+              <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="adjust_results4_isadog.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="adjust_results4_isadog.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/intropyproject-classify-pet-images/adjust_results4_isadog.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+            <state relative-caret-position="470">
+              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
             </state>
           </provider>
         </entry>
@@ -68,8 +59,8 @@
         <option value="$PROJECT_DIR$/intropyproject-classify-pet-images/classify_images.py" />
         <option value="$PROJECT_DIR$/intropyproject-classify-pet-images/check_images.py" />
         <option value="$PROJECT_DIR$/intropyproject-classify-pet-images/calculates_results_stats.py" />
-        <option value="$PROJECT_DIR$/intropyproject-classify-pet-images/print_results.py" />
         <option value="$PROJECT_DIR$/intropyproject-classify-pet-images/adjust_results4_isadog.py" />
+        <option value="$PROJECT_DIR$/intropyproject-classify-pet-images/print_results.py" />
       </list>
     </option>
   </component>
@@ -79,7 +70,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="610" />
     <option name="y" value="23" />
     <option name="width" value="1070" />
@@ -175,7 +166,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32946634" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32946634" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29571983" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -312,17 +303,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intropyproject-classify-pet-images/print_results.py">
+    <entry file="file://$PROJECT_DIR$/intropyproject-classify-pet-images/adjust_results4_isadog.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="45" column="71" lean-forward="true" selection-start-line="45" selection-start-column="71" selection-end-line="45" selection-end-column="71" />
+        <state relative-caret-position="470">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intropyproject-classify-pet-images/adjust_results4_isadog.py">
+    <entry file="file://$PROJECT_DIR$/intropyproject-classify-pet-images/print_results.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+        <state relative-caret-position="487">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
         </state>
       </provider>
     </entry>

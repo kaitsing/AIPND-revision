@@ -63,6 +63,9 @@ def print_results(results_dic, results_stats_dic, model,
            None - simply printing results.
     """
     print("The results of classification using {} model: \n".format(model))
+    print("{} images, {} dog images, {} non-dog images.".format(results_stats_dic['n_images'],
+                                                                results_stats_dic['n_dogs_img'],
+                                                                results_stats_dic['n_notdogs_img']))
     print("% of correct dogs: {}. % of correct breeds: {}. % of correct non-dogs {}.".format(
         results_stats_dic['pct_correct_dogs'], results_stats_dic['pct_correct_breed'],
         results_stats_dic['pct_correct_notdogs']))
@@ -74,9 +77,19 @@ def print_results(results_dic, results_stats_dic, model,
                 incorrect_dog[key] = [results_dic[key][0], results_dic[key][1]]
             if results_dic[key][3] and not results_dic[key][2]:
                 incorrect_breed[key] = [results_dic[key][0], results_dic[key][1]]
-        print("Incorrectly classified as not a dog: {}".format(incorrect_dog))
+        for key in incorrect_dog:
+            print("Incorrectly classified as not a dog: \nImage: {}, Label: {}, Prediction: {}".format(key,
+                                                                                                       incorrect_dog[
+                                                                                                           key][0],
+                                                                                                       incorrect_dog[
+                                                                                                           key][1]))
     if print_incorrect_breed:
-        print("Incorrectly classified breed: {}".format(incorrect_breed))
+        for key in incorrect_breed:
+            print("Incorrectly classified as not a dog: \nImage: {}, Label: {}, Prediction: {}".format(key,
+                                                                                                       incorrect_breed[
+                                                                                                           key][0],
+                                                                                                       incorrect_breed[
+                                                                                                           key][1]))
 
 
 
