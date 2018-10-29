@@ -85,11 +85,10 @@ def print_results(results_dic, results_stats_dic, model,
                                                                                                            key][1]))
     if print_incorrect_breed:
         for key in incorrect_breed:
-            print("Incorrectly classified as not a dog: \nImage: {}, Label: {}, Prediction: {}".format(key,
-                                                                                                       incorrect_breed[
-                                                                                                           key][0],
-                                                                                                       incorrect_breed[
-                                                                                                           key][1]))
+            print("Incorrectly classified breed: \nImage: {}, Label: {}, Prediction: {}".format(key,
+                                                                                                incorrect_breed[key][0],
+                                                                                                incorrect_breed[key][
+                                                                                                    1]))
 
 
 

@@ -32,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/intropyproject-classify-pet-images/print_results.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="487">
-              <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+              <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
             </state>
           </provider>
         </entry>
@@ -70,9 +70,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="610" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="753" />
+    <option name="y" value="56" />
     <option name="width" value="1070" />
     <option name="height" value="959" />
   </component>
@@ -158,7 +158,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="610" y="23" width="1070" height="959" extended-state="0" />
+    <frame x="753" y="56" width="1070" height="959" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -313,7 +313,7 @@
     <entry file="file://$PROJECT_DIR$/intropyproject-classify-pet-images/print_results.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="487">
-          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
         </state>
       </provider>
     </entry>
